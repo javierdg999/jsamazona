@@ -495,7 +495,8 @@ $ npm start
     4. create pie chart for product categories
 44. PUBLISH HEROKU
 
-    1. Create git repository => Terminal: => git init
+    1. Create git repository
+       => Terminal: => git init
     2. Create heroku account
     3. install Heroku CLI
     4. heroku login => Terminal: heroku login Enter X2
