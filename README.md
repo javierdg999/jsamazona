@@ -520,6 +520,15 @@ $ npm start
         source Control Message: heroku publish
         terminal: git push heroku
 
+    20. SIgnin terminal: heroku config:set JWT_SECRET=somethingsecret
+    21. SIgnin => Email : admin@example.com
+        password: jsamazona
+    22. Dashboard (error) => https://jsamazonaapp3.herokuapp.com/#/productlist
+    23. Dashboard : create Product => Create new product => save
+    24. Proceed to buy and checkout =>
+    25. Add Paypal =>
+        heroku config:set PAYPAL_CLIENT_ID=AfrClTutewGtxVj1bHNTQ8cjWm31Z7HquP4kT36bqv9KnOpHvX9sjll0IOkn0YaKUt659qp52B0tsN7g
+
 45. Product Search Bar
     1. create search bar in Header.js
     2. add style
@@ -547,4 +556,4 @@ $ npm start
 user.name = javierdg999
 user.email = javierdg9@hotmail.com
 
-****
+---
